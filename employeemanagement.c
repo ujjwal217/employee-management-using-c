@@ -1,4 +1,3 @@
-// Employee Management using C :: Version 1.0
 #include<stdio.h>
 typedef struct{
 	int d,m,y;
